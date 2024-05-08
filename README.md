@@ -6,9 +6,10 @@ Player 1 controls:
 Move Up: Press 'w' key
 Move Down: Press 's' key
 
-Player 2 controls:
+Player 2 controls: 
 Move Up: Press the 'Up' arrow key
 Move Down: Press the 'Down' arrow key
+
 Pause/Resume Game: Press 'p' key
 
 Game Objective
